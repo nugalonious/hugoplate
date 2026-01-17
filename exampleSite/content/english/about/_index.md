@@ -1,7 +1,7 @@
 ---
-title: Hey, I am John Doe!
+title: Nugalonious
 meta_title: About
-description: this is meta description
+description: Commerical Grower
 image: /images/avatar.png
 layout: about
 draft: false
